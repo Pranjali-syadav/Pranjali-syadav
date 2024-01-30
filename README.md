@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Pranjali-syadav
+- 👋 Hi, I’m @Pranjali-yadav
+- I am data analyst 
 
 
 
