@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Pranjali-yadav
-- I am data analyst 
+  I believe data can bridge the gap between questions and answers, problems and solutions.
+  My portfolio showcases my journey to becoming a data analyst, where I learn to transform raw data into actionable insights.
+ 
 
 
 
